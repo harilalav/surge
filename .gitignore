@@ -48,4 +48,4 @@ pip-delete-this-directory.txt
 # celery 
 celerybeat-schedule.* 
 
-*/.DS_Store
+.DS_Store
