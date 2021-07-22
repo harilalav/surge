@@ -48,10 +48,4 @@ pip-delete-this-directory.txt
 # celery 
 celerybeat-schedule.* 
 
-# Visual Studio Code # 
-.vscode/* 
-!.vscode/settings.json 
-!.vscode/tasks.json 
-!.vscode/launch.json 
-!.vscode/extensions.json 
-.history
+*/.DS_Store
